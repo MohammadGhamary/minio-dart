@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:minio/io.dart';
-import 'package:minio/minio.dart';
-import 'package:minio/src/minio_models_generated.dart';
-import 'package:minio/src/utils.dart';
+import 'package:minio_new/io.dart';
+import 'package:minio_new/minio.dart';
+import 'package:minio_new/src/minio_models_generated.dart';
+import 'package:minio_new/src/utils.dart';
 import 'package:test/test.dart';
 
 import 'helpers.dart';
